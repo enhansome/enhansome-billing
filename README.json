@@ -1,0 +1,521 @@
+{
+  "items": [
+    {
+      "description": "The dynamic scheme for elastic resources.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lago",
+          "description": "💸 Open-source metering & usage-based billing in Ruby. Lago SAS sells a hosted Cloud and Premium add-ons on top of the AGPL core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T07:42:25Z",
+            "owner": "getlago",
+            "repo": "lago",
+            "stars": 10325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CGRateS",
+          "description": "🆓 An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go. Vendor-neutral, support-only commercial model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T15:18:52Z",
+            "owner": "cgrates",
+            "repo": "cgrates",
+            "stars": 509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StripeMeter",
+          "description": "🆓 Open-source, Stripe-native usage metering in TypeScript. Reconciles computed usage against Stripe invoices for “pre-invoice parity”, with exactly-once processing and real-time cost projections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T16:32:01Z",
+            "owner": "geminimir",
+            "repo": "meterguard",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Usage-based Pricing"
+    },
+    {
+      "description": "Highly popular for SaaS businesses, subscription plans are easy to comprehend.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lotus",
+          "description": "🆓 Open-source project to manage pricing & packaging infrastructure. Lotus Inc. only sells managed hosting on top of the MIT core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T10:01:46Z",
+            "owner": "uselotus",
+            "repo": "lotus",
+            "stars": 1831
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🆓 Open-source license key generation and verification tool in Go. Solo-maintainer project, no commercial offering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-02-29T14:09:10Z",
+            "owner": "furkansenharputlu",
+            "repo": "f-license",
+            "stars": 823
+          }
+        }
+      ],
+      "title": "Subscription Plans"
+    },
+    {
+      "description": "Help your customers predict their upcoming and future consumption based on their past usage.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🆓 Python library for time-series machine learning, governed by the Alan Turing Institute. See the forecasting tutorial and the differences between sktime and the Prophet project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T12:36:43Z",
+            "owner": "sktime",
+            "repo": "sktime",
+            "stars": 9917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Darts",
+          "description": "🆓 Python library for user-friendly forecasting and anomaly detection on time series, stewarded by Unit8 SA which only sells consulting around it (no paid library tier). Wraps a huge number of models, including Prophet. Great for experiments, but bear in mind that all the models in Darts expects that your data comes at a very regular interval, and make a lot of assumptions about their shape.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T10:05:41Z",
+            "owner": "unit8co",
+            "repo": "darts",
+            "stars": 9489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Komiser",
+          "description": "💸 Open-source tool to stay under budget by uncovering hidden costs, monitoring increases in spend, and making impactful changes based on custom recommendations. Tailwarden sells a hosted SaaS on top.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-12T18:16:14Z",
+            "owner": "mlabouardy",
+            "repo": "komiser",
+            "stars": 4138
+          }
+        }
+      ],
+      "title": "Cost Forecast"
+    },
+    {
+      "description": "Targeted online advertisements marketplaces have a lot in common with traditional cloud marketplace. Some good inspiration there, from concepts to tech.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Samsung's online ads platform/exchange war story",
+          "description": "How to scale to 5M bid request/s, 2ms Max Response Time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-05-25T04:42:03Z",
+            "owner": "eloraiby",
+            "repo": "fs-pacer",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RTB Budget Pacing Summarized",
+          "description": "A reading list distilling research papers from Turn Inc., Yahoo, and LinkedIn on RTB budget pacing techniques. Static resource: dated but still a useful entry point into the literature.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-11-09T06:18:46Z",
+            "owner": "PragmaticLab",
+            "repo": "RTB_Budget_Pacing_Summarized",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Online Ads"
+    },
+    {
+      "description": "Everything you need to know about the daily practice of keeping your accounting data clean and tidy.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Frappe Books",
+          "description": "🆓 Free desktop book-keeping software for small-businesses and freelancers, with no paid edition.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-28T22:17:26Z",
+            "owner": "frappe",
+            "repo": "books",
+            "stars": 4884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Formance Ledger",
+          "description": "💸 MIT-licensed programmable double-entry ledger with the Numscript DSL, multi-currency, REST API, and Docker deployment usable standalone. Formance sells Enterprise add-ons (Wallets, Flows, Reconciliation, pre-built connectors, SSO, RBAC, audit logs) on top, but the core ledger is fully functional in OSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T11:22:08Z",
+            "owner": "formancehq",
+            "repo": "ledger",
+            "stars": 1341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go DB Ledger",
+          "description": "🆓 Open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-07-05T21:05:43Z",
+            "owner": "darcys22",
+            "repo": "godbledger",
+            "stars": 510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Luca",
+          "description": "🆓 YAML accounting and JSON tax forms, solo-maintained.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-03T19:22:50Z",
+            "owner": "brandon-rhodes",
+            "repo": "luca",
+            "stars": 72
+          }
+        }
+      ],
+      "title": "Bookkeeping"
+    },
+    {
+      "description": "Now that you're somewhat familiar with the concepts and practice of accounting, here are some resources to help you implement that knowledge into software systems.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TigerBeetle",
+          "description": "🆓 A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between. All features are in the Apache-2.0 OSS repo; TigerBeetle Inc. sells managed hosting and support, not gated features. It has been tested on Jepsen, which tested its strong serializability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2026-08-04T10:43:22Z",
+            "owner": "tigerbeetle",
+            "repo": "tigerbeetle",
+            "stars": 16783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Django Hordak",
+          "description": "🆓 Core functionality of a double entry accounting system for Django, single-maintainer MIT library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-02T14:46:05Z",
+            "owner": "adamcharnock",
+            "repo": "django-hordak",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Managed accounts for Django",
+          "description": "🆓 A 'managed account' is an allocation of money that can be debited and credited. Community-maintained django-oscar extension.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-23T21:26:13Z",
+            "owner": "django-oscar",
+            "repo": "django-oscar-accounts",
+            "stars": 215
+          }
+        }
+      ],
+      "title": "Software design and implementation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "InvoicePlane",
+          "description": "🆓 A self-hosted open-source application for managing your invoices, clients and payments. Community project, no paid edition.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T23:54:29Z",
+            "owner": "InvoicePlane",
+            "repo": "InvoicePlane",
+            "stars": 3109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Invoice Builder",
+          "description": "🆓 Offline-first desktop app to create, manage and export invoices and quotes to PDF, with all data kept in a local database you own.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T11:25:00Z",
+            "owner": "piratuks",
+            "repo": "invoice-builder",
+            "stars": 465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruby Invoicing Framework",
+          "description": "🆓 For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-08-29T03:59:03Z",
+            "owner": "codemancers",
+            "repo": "invoicing",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InvoiceGenerator",
+          "description": "🆓 Python library to generate simple invoices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T12:54:25Z",
+            "owner": "by-cx",
+            "repo": "InvoiceGenerator",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "microinvoice",
+          "description": "🆓 Fast Node.js library to generate PDF invoices with PDFKit, no headless browser required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-09T16:21:40Z",
+            "owner": "baptistejamin",
+            "repo": "node-microinvoice",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "klirr",
+          "description": "🆓 Zero-maintenance FOSS CLI tool for generating beautiful invoices for services and expenses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-01T20:02:57Z",
+            "owner": "Sajjon",
+            "repo": "klirr",
+            "stars": 135
+          }
+        }
+      ],
+      "title": "Generators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Factur-X",
+          "description": "🆓 Python library to support the e-invoicing standard for France and Germany.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "XSLT",
+            "last_commit": "2026-08-08T11:42:14Z",
+            "owner": "akretion",
+            "repo": "factur-x",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GOBL",
+          "description": "💸 JSON Schema, Open Source Go library, global tax database, with conversion tools, all in one. Invopop sells a managed e-invoicing SaaS implementation on top of the open spec.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T10:50:43Z",
+            "owner": "invopop",
+            "repo": "gobl",
+            "stars": 297
+          }
+        }
+      ],
+      "title": "Electronic invoices"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hyperswitch",
+          "description": "💸 Open-source backend for payment processing. Juspay sells Hyperswitch Cloud and a self-host Enterprise edition; the OSS is functionally complete with 90+ connectors, vault, routing, 3DS, and fraud orchestration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T11:15:16Z",
+            "owner": "juspay",
+            "repo": "hyperswitch",
+            "stars": 43476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polar",
+          "description": "💸 Open-source monetization platform to sell SaaS and digital products. Polar Software Inc. runs the hosted polar.sh service as the merchant of record, handling billing, sales tax and VAT remittance for a cut of each transaction; the self-hostable OSS ships the full stack (checkout, subscriptions, usage metering, license keys) on top of your own Stripe account.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T11:23:56Z",
+            "owner": "polarsource",
+            "repo": "polar",
+            "stars": 10183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "moov",
+          "description": "🆓 Suite of Apache-2.0 libraries for financial technology, including , , and . No paid product on top.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T05:05:40Z",
+            "owner": "moov-io",
+            "repo": "ach",
+            "stars": 558
+          }
+        }
+      ],
+      "title": "Payments"
+    },
+    {
+      "description": "As stakeholder of the billing pipeline, you sat on all the critical data to measure and report on the health of the business.",
+      "items": [],
+      "title": "Business Intelligence"
+    },
+    {
+      "description": "Software to build visualizations, dashboards, SQL queries and drill down into data.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Apache Superset",
+          "description": "🆓 Enterprise-ready business intelligence web application, governed by the Apache Software Foundation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T11:01:20Z",
+            "owner": "apache",
+            "repo": "superset",
+            "stars": 74250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🆓 Connect and query your data sources, build dashboards to visualize data and share them with your company. Owned by Databricks but the hosted SaaS shut down in 2021, so the project is now community-maintained under the Databricks org with no paid Redash product.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T16:48:54Z",
+            "owner": "getredash",
+            "repo": "redash",
+            "stars": 28742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meltano",
+          "description": "🆓 Open source convention-over-configuration product for the whole data lifecycle, all the way from loading data to analyzing it. Meltano only sells managed Cloud hosting and support SLA on top of the OSS core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T11:18:25Z",
+            "owner": "meltano",
+            "repo": "meltano",
+            "stars": 2591
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "Your contributions are always welcome! Please take a look at the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "The header image is based on a modified photo by Denny Müller.\n[1]: Sapiens: A Brief History of Humankind (Harper, 2015). [↑]",
+      "items": [],
+      "title": "Footnotes"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:25:01.265Z",
+    "original_repository": "kdeldycke/awesome-billing",
+    "original_repository_sha": "8653bcd65300ca08b8fb1e88327b418ec7ac817e",
+    "enhanced_repository": "enhansome/enhansome-billing",
+    "enhanced_repository_description": null,
+    "title": "Awesome billing with stars"
+  }
+}
