@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-18T21:22:59Z",
                 "owner": "getlago",
                 "repo": "lago",
-                "stars": 10367
+                "stars": 10369
               }
             },
             {
@@ -218,7 +218,7 @@
                 "archived": false,
                 "id": 371644903,
                 "language": "Go",
-                "last_commit": "2026-08-19T10:57:30Z",
+                "last_commit": "2026-08-19T11:29:54Z",
                 "owner": "formancehq",
                 "repo": "ledger",
                 "stars": 1351
@@ -466,10 +466,10 @@
             "archived": false,
             "id": 552877440,
             "language": "Rust",
-            "last_commit": "2026-08-19T10:57:18Z",
+            "last_commit": "2026-08-19T12:07:32Z",
             "owner": "juspay",
             "repo": "hyperswitch",
-            "stars": 43503
+            "stars": 43504
           }
         },
         {
@@ -481,7 +481,7 @@
             "archived": false,
             "id": 593558875,
             "language": "Python",
-            "last_commit": "2026-08-19T10:57:13Z",
+            "last_commit": "2026-08-19T12:16:20Z",
             "owner": "polarsource",
             "repo": "polar",
             "stars": 10200
@@ -555,10 +555,10 @@
                 "archived": false,
                 "id": 39464018,
                 "language": "Python",
-                "last_commit": "2026-08-19T10:51:05Z",
+                "last_commit": "2026-08-19T11:03:15Z",
                 "owner": "apache",
                 "repo": "superset",
-                "stars": 74308
+                "stars": 74311
               }
             },
             {
@@ -573,7 +573,7 @@
                 "last_commit": "2026-08-18T16:14:11Z",
                 "owner": "getredash",
                 "repo": "redash",
-                "stars": 28755
+                "stars": 28756
               }
             },
             {
@@ -601,8 +601,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:58:23.880Z",
+    "last_updated": "2026-08-19T12:19:03.771Z",
     "original_repository": "kdeldycke/awesome-billing",
+    "original_repository_id": 191599624,
     "original_repository_sha": "ec5eba3b4f3ccbf7e292b76338df781f3d2ff24a",
     "enhanced_repository": "enhansome/enhansome-billing",
     "enhanced_repository_description": null,

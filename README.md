@@ -39,7 +39,7 @@
 
 Any company needs at one point to get money from customers. That's when things gets messy for us developers, as we try to reconcile the complexity of the business with our software stack.
 
-This [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,618 | 🐛 102 | 📅 2026-08-18 list helps software engineers **bootstrap billing & payments systems, and make sense of invoicing, pricing, accounting, marketplace, fraud and business intelligence**.
+This [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,655 | 🐛 102 | 📅 2026-08-18 list helps software engineers **bootstrap billing & payments systems, and make sense of invoicing, pricing, accounting, marketplace, fraud and business intelligence**.
 
 ## Contents
 
@@ -139,7 +139,7 @@ From monthly subscription to commodity-like on-the-go consumption, there's plent
 
 The dynamic scheme for elastic resources.
 
-* [Lago](https://github.com/getlago/lago) ⭐ 10,367 | 🐛 26 | 🌐 Go | 📅 2026-08-18 - 💸 Open-source metering & usage-based billing in Ruby. Lago SAS sells a hosted Cloud and Premium add-ons on top of the AGPL core.
+* [Lago](https://github.com/getlago/lago) ⭐ 10,369 | 🐛 26 | 🌐 Go | 📅 2026-08-18 - 💸 Open-source metering & usage-based billing in Ruby. Lago SAS sells a hosted Cloud and Premium add-ons on top of the AGPL core.
 
 * [CGRateS](https://github.com/cgrates/cgrates) ⭐ 511 | 🐛 73 | 🌐 Go | 📅 2026-08-12 - 🆓 An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go. Vendor-neutral, support-only commercial model.
 
@@ -225,7 +225,7 @@ The central repository of all available services, products, variants, options an
 
 * [GCP Product Catalog](https://cloud.google.com/blog/products/gcp/introducing-cloud-billing-catalog-api-gcp-pricing-in-real-time) - All GCP SKUs available as an API.
 
-* [Pimcore](https://github.com/pimcore/pimcore) ⭐ 3,833 | 🐛 379 | 🌐 PHP | 📅 2026-08-19 - 💸 An open-source UI and database to manage product metadata, written in PHP Symfony. Pimcore GmbH sells Enterprise Subscription, PaaS, and proprietary modules on top of the GPL/POCL core.
+* [Pimcore](https://github.com/pimcore/pimcore) ⭐ 3,833 | 🐛 380 | 🌐 PHP | 📅 2026-08-19 - 💸 An open-source UI and database to manage product metadata, written in PHP Symfony. Pimcore GmbH sells Enterprise Subscription, PaaS, and proprietary modules on top of the GPL/POCL core.
 
 ## Calculator
 
@@ -241,7 +241,7 @@ Simulate a virtual invoice depending on the resource you plan to use.
 
 Help your customers predict their upcoming and future consumption based on their past usage.
 
-* [`sktime`](https://github.com/alan-turing-institute/sktime) ⭐ 9,946 | 🐛 2,408 | 🌐 Python | 📅 2026-08-18 - 🆓 Python library for time-series machine learning, governed by the Alan Turing Institute. See the [forecasting tutorial](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) ⭐ 9,946 | 🐛 2,408 | 🌐 Python | 📅 2026-08-18 and the [differences between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861).
+* [`sktime`](https://github.com/alan-turing-institute/sktime) ⭐ 9,946 | 🐛 2,407 | 🌐 Python | 📅 2026-08-18 - 🆓 Python library for time-series machine learning, governed by the Alan Turing Institute. See the [forecasting tutorial](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) ⭐ 9,946 | 🐛 2,407 | 🌐 Python | 📅 2026-08-18 and the [differences between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861).
 
 * [Darts](https://github.com/unit8co/darts) ⭐ 9,498 | 🐛 222 | 🌐 Python | 📅 2026-08-06 - 🆓 Python library for user-friendly forecasting and anomaly detection on time series, stewarded by Unit8 SA which only sells consulting around it (no paid library tier). Wraps a huge number of models, including [Prophet](https://facebook.github.io/prophet/). Great for experiments, but bear in mind that all the [models in Darts expects](https://news.ycombinator.com/item?id=37665435) that your data comes at a very regular interval, and make a lot of assumptions about their shape.
 
@@ -333,7 +333,7 @@ Everything you need to know about the daily practice of keeping your accounting 
 
 * [Frappe Books](https://github.com/frappe/books) ⭐ 4,891 | 🐛 224 | 🌐 TypeScript | 📅 2026-05-28 - 🆓 Free desktop book-keeping software for small-businesses and freelancers, with no paid edition.
 
-* [Formance Ledger](https://github.com/formancehq/ledger) ⭐ 1,351 | 🐛 48 | 🌐 Go | 📅 2026-08-19 - 💸 MIT-licensed programmable double-entry ledger with the Numscript DSL, multi-currency, REST API, and Docker deployment usable standalone. Formance sells Enterprise add-ons (Wallets, Flows, Reconciliation, pre-built connectors, SSO, RBAC, audit logs) on top, but the core ledger is fully functional in OSS.
+* [Formance Ledger](https://github.com/formancehq/ledger) ⭐ 1,351 | 🐛 47 | 🌐 Go | 📅 2026-08-19 - 💸 MIT-licensed programmable double-entry ledger with the Numscript DSL, multi-currency, REST API, and Docker deployment usable standalone. Formance sells Enterprise add-ons (Wallets, Flows, Reconciliation, pre-built connectors, SSO, RBAC, audit logs) on top, but the core ledger is fully functional in OSS.
 
 * [Go DB Ledger](https://github.com/darcys22/godbledger) ⭐ 511 | 🐛 21 | 🌐 Go | 📅 2023-07-05 - 🆓 Open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
 
@@ -497,9 +497,9 @@ Once issued, an invoice must be immutable.
 
 ## Payments
 
-* [Hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 43,503 | 🐛 2,085 | 🌐 Rust | 📅 2026-08-19 - 💸 Open-source backend for payment processing. Juspay sells Hyperswitch Cloud and a self-host Enterprise edition; the OSS is functionally complete with 90+ connectors, vault, routing, 3DS, and fraud orchestration.
+* [Hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 43,504 | 🐛 2,089 | 🌐 Rust | 📅 2026-08-19 - 💸 Open-source backend for payment processing. Juspay sells Hyperswitch Cloud and a self-host Enterprise edition; the OSS is functionally complete with 90+ connectors, vault, routing, 3DS, and fraud orchestration.
 
-* [Polar](https://github.com/polarsource/polar) ⭐ 10,200 | 🐛 100 | 🌐 Python | 📅 2026-08-19 - 💸 Open-source monetization platform to sell SaaS and digital products. Polar Software Inc. runs the hosted polar.sh service as the merchant of record, handling billing, sales tax and VAT remittance for a cut of each transaction; the self-hostable OSS ships the full stack (checkout, subscriptions, usage metering, license keys) on top of your own Stripe account.
+* [Polar](https://github.com/polarsource/polar) ⭐ 10,200 | 🐛 95 | 🌐 Python | 📅 2026-08-19 - 💸 Open-source monetization platform to sell SaaS and digital products. Polar Software Inc. runs the hosted polar.sh service as the merchant of record, handling billing, sales tax and VAT remittance for a cut of each transaction; the self-hostable OSS ships the full stack (checkout, subscriptions, usage metering, license keys) on top of your own Stripe account.
 
 * [moov](https://github.com/moov-io) - 🆓 Suite of Apache-2.0 libraries for financial technology, including [`moov-io/ach`](https://github.com/moov-io/ach) ⭐ 558 | 🐛 16 | 🌐 Go | 📅 2026-08-19, [`iso8583`](https://github.com/moov-io/iso8583) ⭐ 527 | 🐛 18 | 🌐 Go | 📅 2026-08-18, and [`watchman`](https://github.com/moov-io/watchman) ⭐ 501 | 🐛 12 | 🌐 Go | 📅 2026-08-18. No paid product on top.
 
@@ -695,7 +695,7 @@ How much value do you produce per customer? The Customer Lifetime Value (CLV, or
 
 * [Churn Prediction](https://towardsdatascience.com/customer-churn-prediction-with-text-and-interpretability-bd3d57af34b1/) - “How to use Python in a simplistic way to fuel your company's growth by applying the predictive approach to all your actions.” Relies on XGBoost binary classification.
 
-* [PyMC-Marketing](https://github.com/pymc-labs/pymc-marketing) ⭐ 1,228 | 🐛 434 | 🌐 Python | 📅 2026-08-19 - 🆓 A full-featured Python package to analyze your users based on their "alive" and "dead" states. Apache-2.0 library stewarded by PyMC Labs, which only sells consulting services around it (no paid library tier).
+* [PyMC-Marketing](https://github.com/pymc-labs/pymc-marketing) ⭐ 1,229 | 🐛 434 | 🌐 Python | 📅 2026-08-19 - 🆓 A full-featured Python package to analyze your users based on their "alive" and "dead" states. Apache-2.0 library stewarded by PyMC Labs, which only sells consulting services around it (no paid library tier).
 
 ### Data Engineering
 
@@ -719,9 +719,9 @@ To industrialize data production and consumption, your need data engineers to cl
 
 Software to build visualizations, dashboards, SQL queries and drill down into data.
 
-* [Apache Superset](https://github.com/apache/superset) ⭐ 74,308 | 🐛 624 | 🌐 Python | 📅 2026-08-19 - 🆓 Enterprise-ready business intelligence web application, governed by the Apache Software Foundation.
+* [Apache Superset](https://github.com/apache/superset) ⭐ 74,311 | 🐛 624 | 🌐 Python | 📅 2026-08-19 - 🆓 Enterprise-ready business intelligence web application, governed by the Apache Software Foundation.
 
-* [`redash`](https://github.com/getredash/redash) ⭐ 28,755 | 🐛 797 | 🌐 Python | 📅 2026-08-18 - 🆓 Connect and query your data sources, build dashboards to visualize data and share them with your company. Owned by Databricks but the hosted SaaS shut down in 2021, so the project is now community-maintained under the Databricks org with no paid Redash product.
+* [`redash`](https://github.com/getredash/redash) ⭐ 28,756 | 🐛 797 | 🌐 Python | 📅 2026-08-18 - 🆓 Connect and query your data sources, build dashboards to visualize data and share them with your company. Owned by Databricks but the hosted SaaS shut down in 2021, so the project is now community-maintained under the Databricks org with no paid Redash product.
 
 * [Meltano](https://github.com/meltano/meltano) ⭐ 2,596 | 🐛 151 | 🌐 Python | 📅 2026-08-19 - 🆓 Open source convention-over-configuration product for the whole data lifecycle, all the way from loading data to analyzing it. Meltano only sells managed Cloud hosting and support SLA on top of the OSS core.
 
