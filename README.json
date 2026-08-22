@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 464415161,
                 "language": "Go",
-                "last_commit": "2026-08-20T13:11:52Z",
+                "last_commit": "2026-08-21T23:50:11Z",
                 "owner": "getlago",
                 "repo": "lago",
-                "stars": 10372
+                "stars": 10376
               }
             },
             {
@@ -107,10 +107,10 @@
             "archived": false,
             "id": 156401841,
             "language": "Python",
-            "last_commit": "2026-08-20T22:29:53Z",
+            "last_commit": "2026-08-22T00:44:41Z",
             "owner": "sktime",
             "repo": "sktime",
-            "stars": 9956
+            "stars": 9958
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-08-21T08:30:55Z",
             "owner": "unit8co",
             "repo": "darts",
-            "stars": 9497
+            "stars": 9498
           }
         },
         {
@@ -206,7 +206,7 @@
                 "last_commit": "2026-05-28T22:17:26Z",
                 "owner": "frappe",
                 "repo": "books",
-                "stars": 4891
+                "stars": 4893
               }
             },
             {
@@ -218,10 +218,10 @@
                 "archived": false,
                 "id": 371644903,
                 "language": "Go",
-                "last_commit": "2026-08-21T10:52:11Z",
+                "last_commit": "2026-08-22T02:36:16Z",
                 "owner": "formancehq",
                 "repo": "ledger",
-                "stars": 1353
+                "stars": 1355
               }
             },
             {
@@ -273,7 +273,7 @@
                 "last_commit": "2026-08-18T14:22:21Z",
                 "owner": "tigerbeetle",
                 "repo": "tigerbeetle",
-                "stars": 16858
+                "stars": 16877
               }
             },
             {
@@ -328,7 +328,7 @@
                 "archived": false,
                 "id": 20021038,
                 "language": "PHP",
-                "last_commit": "2026-08-18T18:38:47Z",
+                "last_commit": "2026-08-21T17:36:36Z",
                 "owner": "InvoicePlane",
                 "repo": "InvoicePlane",
                 "stars": 3112
@@ -466,10 +466,10 @@
             "archived": false,
             "id": 552877440,
             "language": "Rust",
-            "last_commit": "2026-08-21T10:59:44Z",
+            "last_commit": "2026-08-22T06:12:11Z",
             "owner": "juspay",
             "repo": "hyperswitch",
-            "stars": 43526
+            "stars": 43530
           }
         },
         {
@@ -481,10 +481,10 @@
             "archived": false,
             "id": 593558875,
             "language": "Python",
-            "last_commit": "2026-08-21T10:59:15Z",
+            "last_commit": "2026-08-22T08:47:56Z",
             "owner": "polarsource",
             "repo": "polar",
-            "stars": 10209
+            "stars": 10208
           }
         },
         {
@@ -496,7 +496,7 @@
             "archived": false,
             "id": 76497520,
             "language": "Go",
-            "last_commit": "2026-08-20T01:09:35Z",
+            "last_commit": "2026-08-21T19:53:33Z",
             "owner": "moov-io",
             "repo": "ach",
             "stars": 558
@@ -555,10 +555,10 @@
                 "archived": false,
                 "id": 39464018,
                 "language": "Python",
-                "last_commit": "2026-08-21T10:45:56Z",
+                "last_commit": "2026-08-22T07:05:56Z",
                 "owner": "apache",
                 "repo": "superset",
-                "stars": 74338
+                "stars": 74377
               }
             },
             {
@@ -573,7 +573,7 @@
                 "last_commit": "2026-08-18T16:14:11Z",
                 "owner": "getredash",
                 "repo": "redash",
-                "stars": 28761
+                "stars": 28764
               }
             },
             {
@@ -585,10 +585,10 @@
                 "archived": false,
                 "id": 378997214,
                 "language": "Python",
-                "last_commit": "2026-08-20T15:35:20Z",
+                "last_commit": "2026-08-22T00:50:39Z",
                 "owner": "meltano",
                 "repo": "meltano",
-                "stars": 2600
+                "stars": 2603
               }
             }
           ],
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:00:54.656Z",
+    "last_updated": "2026-08-22T10:55:29.810Z",
     "original_repository": "kdeldycke/awesome-billing",
     "original_repository_id": 191599624,
     "original_repository_sha": "ec5eba3b4f3ccbf7e292b76338df781f3d2ff24a",
