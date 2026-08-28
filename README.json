@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-27T16:18:40Z",
                 "owner": "getlago",
                 "repo": "lago",
-                "stars": 10424
-              }
+                "stars": 10437
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 3254877,
                 "language": "Go",
-                "last_commit": "2026-08-27T18:44:05Z",
+                "last_commit": "2026-08-28T14:46:40Z",
                 "owner": "cgrates",
                 "repo": "cgrates",
                 "stars": 511
-              }
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "geminimir",
                 "repo": "meterguard",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             }
           ],
           "description": "The dynamic scheme for elastic resources.",
@@ -69,8 +72,9 @@
                 "last_commit": "2026-08-13T23:10:14Z",
                 "owner": "uselotus",
                 "repo": "lotus",
-                "stars": 1833
-              }
+                "stars": 1834
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "furkansenharputlu",
                 "repo": "f-license",
                 "stars": 824
-              }
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             }
           ],
           "description": "Highly popular for SaaS businesses, subscription plans are easy to comprehend.",
@@ -107,11 +112,12 @@
             "archived": false,
             "id": 2686502,
             "language": "PHP",
-            "last_commit": "2026-08-27T15:22:35Z",
+            "last_commit": "2026-08-28T14:12:57Z",
             "owner": "pimcore",
             "repo": "pimcore",
             "stars": 3838
-          }
+          },
+          "first_seen": "2026-08-28T21:14:44.914Z"
         }
       ],
       "title": "Product Catalog"
@@ -131,8 +137,9 @@
             "last_commit": "2026-08-24T14:26:09Z",
             "owner": "infracost",
             "repo": "infracost",
-            "stars": 12493
-          }
+            "stars": 12495
+          },
+          "first_seen": "2026-08-28T21:14:44.914Z"
         }
       ],
       "title": "Calculator"
@@ -149,11 +156,12 @@
             "archived": false,
             "id": 156401841,
             "language": "Python",
-            "last_commit": "2026-08-27T18:03:28Z",
+            "last_commit": "2026-08-28T21:13:58Z",
             "owner": "sktime",
             "repo": "sktime",
-            "stars": 9969
-          }
+            "stars": 9970
+          },
+          "first_seen": "2026-08-28T21:14:44.914Z"
         },
         {
           "node_type": "item",
@@ -167,8 +175,9 @@
             "last_commit": "2026-08-21T08:30:55Z",
             "owner": "unit8co",
             "repo": "darts",
-            "stars": 9509
-          }
+            "stars": 9510
+          },
+          "first_seen": "2026-08-28T21:14:44.914Z"
         },
         {
           "node_type": "item",
@@ -183,7 +192,8 @@
             "owner": "mlabouardy",
             "repo": "komiser",
             "stars": 4138
-          }
+          },
+          "first_seen": "2026-08-28T21:14:44.914Z"
         }
       ],
       "title": "Cost Forecast"
@@ -203,8 +213,9 @@
             "last_commit": "2026-08-24T09:14:23Z",
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 109043
-          }
+            "stars": 109060
+          },
+          "first_seen": "2026-08-28T21:14:44.914Z"
         },
         {
           "children": [
@@ -221,7 +232,8 @@
                 "owner": "eloraiby",
                 "repo": "fs-pacer",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             },
             {
               "node_type": "item",
@@ -236,7 +248,8 @@
                 "owner": "PragmaticLab",
                 "repo": "RTB_Budget_Pacing_Summarized",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             }
           ],
           "description": "Targeted online advertisements marketplaces have a lot in common with traditional cloud marketplace. Some good inspiration there, from concepts to tech.",
@@ -263,8 +276,9 @@
                 "last_commit": "2026-05-28T22:17:26Z",
                 "owner": "frappe",
                 "repo": "books",
-                "stars": 4904
-              }
+                "stars": 4909
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             },
             {
               "node_type": "item",
@@ -275,11 +289,12 @@
                 "archived": false,
                 "id": 371644903,
                 "language": "Go",
-                "last_commit": "2026-08-27T19:55:38Z",
+                "last_commit": "2026-08-28T21:11:51Z",
                 "owner": "formancehq",
                 "repo": "ledger",
-                "stars": 1366
-              }
+                "stars": 1368
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             },
             {
               "node_type": "item",
@@ -293,8 +308,9 @@
                 "last_commit": "2023-07-05T21:05:43Z",
                 "owner": "darcys22",
                 "repo": "godbledger",
-                "stars": 511
-              }
+                "stars": 512
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             },
             {
               "node_type": "item",
@@ -309,7 +325,8 @@
                 "owner": "brandon-rhodes",
                 "repo": "luca",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             }
           ],
           "description": "Everything you need to know about the daily practice of keeping your accounting data clean and tidy.",
@@ -330,8 +347,9 @@
                 "last_commit": "2026-08-25T09:21:57Z",
                 "owner": "tigerbeetle",
                 "repo": "tigerbeetle",
-                "stars": 16910
-              }
+                "stars": 16917
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             },
             {
               "node_type": "item",
@@ -346,7 +364,8 @@
                 "owner": "adamcharnock",
                 "repo": "django-hordak",
                 "stars": 270
-              }
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             },
             {
               "node_type": "item",
@@ -361,7 +380,8 @@
                 "owner": "django-oscar",
                 "repo": "django-oscar-accounts",
                 "stars": 215
-              }
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             }
           ],
           "description": "Now that you're somewhat familiar with the concepts and practice of accounting, here are some resources to help you implement that knowledge into software systems.",
@@ -385,11 +405,12 @@
                 "archived": false,
                 "id": 20021038,
                 "language": "PHP",
-                "last_commit": "2026-08-27T17:39:20Z",
+                "last_commit": "2026-08-28T09:10:26Z",
                 "owner": "InvoicePlane",
                 "repo": "InvoicePlane",
-                "stars": 3125
-              }
+                "stars": 3126
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             },
             {
               "node_type": "item",
@@ -403,8 +424,9 @@
                 "last_commit": "2026-08-27T14:54:34Z",
                 "owner": "piratuks",
                 "repo": "invoice-builder",
-                "stars": 955
-              }
+                "stars": 968
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             },
             {
               "node_type": "item",
@@ -419,7 +441,8 @@
                 "owner": "codemancers",
                 "repo": "invoicing",
                 "stars": 266
-              }
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             },
             {
               "node_type": "item",
@@ -434,7 +457,8 @@
                 "owner": "by-cx",
                 "repo": "InvoiceGenerator",
                 "stars": 184
-              }
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             },
             {
               "node_type": "item",
@@ -449,7 +473,8 @@
                 "owner": "baptistejamin",
                 "repo": "node-microinvoice",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             },
             {
               "node_type": "item",
@@ -464,7 +489,8 @@
                 "owner": "Sajjon",
                 "repo": "klirr",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             }
           ],
           "description": null,
@@ -486,7 +512,8 @@
                 "owner": "naiveHobo",
                 "repo": "InvoiceNet",
                 "stars": 2695
-              }
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             }
           ],
           "description": null,
@@ -508,7 +535,8 @@
                 "owner": "akretion",
                 "repo": "factur-x",
                 "stars": 304
-              }
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             },
             {
               "node_type": "item",
@@ -519,11 +547,12 @@
                 "archived": false,
                 "id": 292311963,
                 "language": "Go",
-                "last_commit": "2026-08-26T14:03:40Z",
+                "last_commit": "2026-08-28T11:20:52Z",
                 "owner": "invopop",
                 "repo": "gobl",
                 "stars": 302
-              }
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             }
           ],
           "description": null,
@@ -545,11 +574,12 @@
             "archived": false,
             "id": 552877440,
             "language": "Rust",
-            "last_commit": "2026-08-27T20:43:11Z",
+            "last_commit": "2026-08-28T18:12:58Z",
             "owner": "juspay",
             "repo": "hyperswitch",
             "stars": 43538
-          }
+          },
+          "first_seen": "2026-08-28T21:14:44.914Z"
         },
         {
           "node_type": "item",
@@ -560,11 +590,12 @@
             "archived": false,
             "id": 593558875,
             "language": "Python",
-            "last_commit": "2026-08-27T15:32:49Z",
+            "last_commit": "2026-08-28T15:37:59Z",
             "owner": "polarsource",
             "repo": "polar",
-            "stars": 10215
-          }
+            "stars": 10216
+          },
+          "first_seen": "2026-08-28T21:14:44.914Z"
         },
         {
           "node_type": "item",
@@ -575,11 +606,12 @@
             "archived": false,
             "id": 76497520,
             "language": "Go",
-            "last_commit": "2026-08-27T15:21:05Z",
+            "last_commit": "2026-08-28T00:08:57Z",
             "owner": "moov-io",
             "repo": "ach",
-            "stars": 558
-          }
+            "stars": 560
+          },
+          "first_seen": "2026-08-28T21:14:44.914Z"
         },
         {
           "children": [
@@ -596,7 +628,8 @@
                 "owner": "PeterNotenboom",
                 "repo": "SwiftCodes",
                 "stars": 199
-              }
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             }
           ],
           "description": "The old-fashioned way of payment: by the way of banks.",
@@ -622,7 +655,8 @@
             "owner": "kdeldycke",
             "repo": "awesome-iam",
             "stars": 2262
-          }
+          },
+          "first_seen": "2026-08-28T21:14:44.914Z"
         },
         {
           "node_type": "item",
@@ -637,7 +671,8 @@
             "owner": "benedekrozemberczki",
             "repo": "awesome-fraud-detection-papers",
             "stars": 1827
-          }
+          },
+          "first_seen": "2026-08-28T21:14:44.914Z"
         },
         {
           "node_type": "item",
@@ -652,7 +687,8 @@
             "owner": "mojaloop",
             "repo": "fraud_risk_management",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:14:44.914Z"
         },
         {
           "children": [
@@ -668,8 +704,9 @@
                 "last_commit": "2024-02-01T21:37:04Z",
                 "owner": "mourarthur",
                 "repo": "awesome-credit-modeling",
-                "stars": 176
-              }
+                "stars": 177
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             }
           ],
           "description": "Synthetic score based on a collection of signals are often the best proxy of user's trustworthiness. Customer support most of the time rely on them to take action when these actions are not triggered automatically.",
@@ -693,11 +730,12 @@
                 "archived": false,
                 "id": 467144767,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:07:02Z",
+                "last_commit": "2026-08-28T20:19:13Z",
                 "owner": "pymc-labs",
                 "repo": "pymc-marketing",
-                "stars": 1246
-              }
+                "stars": 1249
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             }
           ],
           "description": "How much value do you produce per customer? The Customer Lifetime Value (CLV, or LTV for Life-Time Value) quantify that. Understanding and acting on it is the most important part of your business's sales efforts.",
@@ -715,11 +753,12 @@
                 "archived": false,
                 "id": 39464018,
                 "language": "Python",
-                "last_commit": "2026-08-27T20:22:37Z",
+                "last_commit": "2026-08-28T20:56:35Z",
                 "owner": "apache",
                 "repo": "superset",
-                "stars": 74489
-              }
+                "stars": 74515
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             },
             {
               "node_type": "item",
@@ -734,7 +773,8 @@
                 "owner": "getredash",
                 "repo": "redash",
                 "stars": 28766
-              }
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             },
             {
               "node_type": "item",
@@ -745,11 +785,12 @@
                 "archived": false,
                 "id": 378997214,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:10:44Z",
+                "last_commit": "2026-08-28T18:42:37Z",
                 "owner": "meltano",
                 "repo": "meltano",
-                "stars": 2612
-              }
+                "stars": 2613
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
             }
           ],
           "description": "Software to build visualizations, dashboards, SQL queries and drill down into data.",
@@ -761,7 +802,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:43:55.486Z",
+    "last_updated": "2026-08-28T21:14:44.914Z",
     "original_repository_info": {
       "archived": false,
       "id": 191599624,
