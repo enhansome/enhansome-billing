@@ -12,12 +12,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics",
+                "homepage": "https://www.getlago.com",
                 "id": 464415161,
                 "language": "Go",
-                "last_commit": "2026-08-27T16:18:40Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-28T21:31:21Z",
+                "open_issues": 26,
                 "owner": "getlago",
                 "repo": "lago",
-                "stars": 10437
+                "stars": 10438,
+                "topics": [
+                  "analytics",
+                  "billing",
+                  "clickhouse",
+                  "events",
+                  "fintech",
+                  "go",
+                  "ingestion",
+                  "invoices",
+                  "metering",
+                  "open-source",
+                  "payments",
+                  "pricing",
+                  "pricing-data-science",
+                  "react",
+                  "ruby",
+                  "self-hosted",
+                  "subscriptions",
+                  "usage-based-billing"
+                ]
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             },
@@ -28,12 +52,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time Charging System for Telecom & ISP environments",
+                "homepage": "http://cgrates.org",
                 "id": 3254877,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T14:46:40Z",
+                "open_issues": 75,
                 "owner": "cgrates",
                 "repo": "cgrates",
-                "stars": 511
+                "stars": 511,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             },
@@ -44,12 +73,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stripe-native usage metering with real-time cost projections, exactly-once processing, and invoice parity guarantees.",
+                "homepage": null,
                 "id": 1039288797,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-30T16:32:01Z",
+                "open_issues": 1,
                 "owner": "geminimir",
                 "repo": "meterguard",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "billing",
+                  "metering",
+                  "nodejs",
+                  "reconciliation",
+                  "stripe",
+                  "stripe-billing",
+                  "typescript",
+                  "usage-billing"
+                ]
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             }
@@ -67,12 +110,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Pricing & Packaging Infrastructure",
+                "homepage": null,
                 "id": 516192901,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-13T23:10:14Z",
+                "open_issues": 35,
                 "owner": "uselotus",
                 "repo": "lotus",
-                "stars": 1834
+                "stars": 1834,
+                "topics": [
+                  "analytics",
+                  "api",
+                  "billing",
+                  "django",
+                  "monetization",
+                  "price-optimization",
+                  "pricing",
+                  "pricing-engine",
+                  "product-led-pricing",
+                  "python",
+                  "self-hosted",
+                  "typescript",
+                  "usage-based-billing",
+                  "usage-based-pricing"
+                ]
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             },
@@ -83,12 +146,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source License Key Generation and Verification Tool written in Go",
+                "homepage": null,
                 "id": 224425098,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-29T14:09:10Z",
+                "open_issues": 11,
                 "owner": "furkansenharputlu",
                 "repo": "f-license",
-                "stars": 824
+                "stars": 824,
+                "topics": [
+                  "cli",
+                  "cli-app",
+                  "cli-application",
+                  "cli-tool",
+                  "customer-management",
+                  "go",
+                  "golang",
+                  "hmac",
+                  "hmac-authentication",
+                  "jwt",
+                  "jwt-authentication",
+                  "jwt-token",
+                  "license-generator",
+                  "license-management",
+                  "license-server",
+                  "license-tracker",
+                  "rsa",
+                  "rsa-algorithm",
+                  "rsa-key-encryption",
+                  "verification"
+                ]
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             }
@@ -110,12 +199,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Core Framework for the Open Core Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)",
+            "homepage": "http://www.pimcore.com",
             "id": 2686502,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T14:12:57Z",
+            "open_issues": 375,
             "owner": "pimcore",
             "repo": "pimcore",
-            "stars": 3838
+            "stars": 3838,
+            "topics": [
+              "cdp",
+              "cms",
+              "cms-framework",
+              "customer-data-platform",
+              "dam",
+              "data-management",
+              "digital-platform",
+              "ecommerce",
+              "ecommerce-platform",
+              "experience-manager",
+              "hacktoberfest",
+              "master-data-management",
+              "mdm",
+              "online-shop",
+              "pim",
+              "pimcore",
+              "product-information-management",
+              "product-management",
+              "shop",
+              "wcms"
+            ]
           },
           "first_seen": "2026-08-28T21:14:44.914Z"
         }
@@ -132,12 +247,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!",
+            "homepage": "https://infracost.io",
             "id": 274625369,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T14:26:09Z",
+            "open_issues": 18,
             "owner": "infracost",
             "repo": "infracost",
-            "stars": 12495
+            "stars": 12495,
+            "topics": [
+              "aws",
+              "azure",
+              "cdk",
+              "cloud",
+              "cloud-cost-estimates",
+              "cloud-formation",
+              "cost-estimation",
+              "cost-management",
+              "cost-optimization",
+              "devops",
+              "finops",
+              "gcp",
+              "google",
+              "infrastructure-as-code",
+              "monthly-costs",
+              "terraform",
+              "terraform-cost-estimation"
+            ]
           },
           "first_seen": "2026-08-28T21:14:44.914Z"
         }
@@ -154,12 +292,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A unified framework for machine learning with time series",
+            "homepage": "https://www.sktime.net",
             "id": 156401841,
             "language": "Python",
-            "last_commit": "2026-08-28T21:13:58Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T00:42:04Z",
+            "open_issues": 2404,
             "owner": "sktime",
             "repo": "sktime",
-            "stars": 9970
+            "stars": 9972,
+            "topics": [
+              "ai",
+              "anomaly-detection",
+              "changepoint-detection",
+              "data-mining",
+              "data-science",
+              "forecasting",
+              "hacktoberfest",
+              "machine-learning",
+              "scikit-learn",
+              "sktime",
+              "time-series",
+              "time-series-analysis",
+              "time-series-classification",
+              "time-series-regression",
+              "time-series-segmentation"
+            ]
           },
           "first_seen": "2026-08-28T21:14:44.914Z"
         },
@@ -170,12 +329,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python library for user-friendly forecasting and anomaly detection on time series.",
+            "homepage": "https://unit8co.github.io/darts/",
             "id": 148657183,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T08:30:55Z",
+            "open_issues": 229,
             "owner": "unit8co",
             "repo": "darts",
-            "stars": 9510
+            "stars": 9510,
+            "topics": [
+              "anomaly-detection",
+              "data-science",
+              "deep-learning",
+              "forecasting",
+              "machine-learning",
+              "python",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T21:14:44.914Z"
         },
@@ -186,12 +358,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide!",
+            "homepage": "https://komiser.io",
             "id": 121289901,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-12T18:16:14Z",
+            "open_issues": 264,
             "owner": "mlabouardy",
             "repo": "komiser",
-            "stars": 4138
+            "stars": 4138,
+            "topics": [
+              "aws",
+              "azure",
+              "civo",
+              "cost-optimization",
+              "digitalocean",
+              "gcp",
+              "hacktoberfest",
+              "inventory-management",
+              "kubernetes",
+              "linode",
+              "oci",
+              "open-source",
+              "tencent"
+            ]
           },
           "first_seen": "2026-08-28T21:14:44.914Z"
         }
@@ -208,12 +399,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Papers from the computer science community to read and discuss.",
+            "homepage": "http://paperswelove.org/",
             "id": 15204860,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-08-24T09:14:23Z",
+            "open_issues": 3,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 109060
+            "stars": 109070,
+            "topics": [
+              "awesome",
+              "computer-science",
+              "meetup",
+              "papers",
+              "programming",
+              "read-papers",
+              "theory"
+            ]
           },
           "first_seen": "2026-08-28T21:14:44.914Z"
         },
@@ -226,12 +430,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 187576306,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-05-25T04:42:03Z",
+                "open_issues": 0,
                 "owner": "eloraiby",
                 "repo": "fs-pacer",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             },
@@ -242,12 +451,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A summary of research in RTB Budget Pacing",
+                "homepage": null,
                 "id": 53186632,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-11-09T06:18:46Z",
+                "open_issues": 0,
                 "owner": "PragmaticLab",
                 "repo": "RTB_Budget_Pacing_Summarized",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             }
@@ -271,12 +485,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free Accounting Software",
+                "homepage": "https://frappe.io/books",
                 "id": 116673933,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-05-28T22:17:26Z",
+                "open_issues": 224,
                 "owner": "frappe",
                 "repo": "books",
-                "stars": 4909
+                "stars": 4909,
+                "topics": [
+                  "accounting",
+                  "book-keeping",
+                  "desktop",
+                  "double-entry-accounting",
+                  "electron",
+                  "frappe",
+                  "hacktoberfest",
+                  "inventory-management",
+                  "invoicing",
+                  "javascript",
+                  "offline",
+                  "open-source",
+                  "point-of-sale",
+                  "vuejs"
+                ]
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             },
@@ -287,12 +521,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The programmable open source core ledger for fintech",
+                "homepage": "https://formance.com",
                 "id": 371644903,
                 "language": "Go",
-                "last_commit": "2026-08-28T21:11:51Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:56:56Z",
+                "open_issues": 57,
                 "owner": "formancehq",
                 "repo": "ledger",
-                "stars": 1368
+                "stars": 1368,
+                "topics": [
+                  "ledger"
+                ]
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             },
@@ -303,12 +544,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Accounting Software with GRPC endpoints and SQL Backends",
+                "homepage": "https://www.godbledger.com/",
                 "id": 184968996,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2023-07-05T21:05:43Z",
+                "open_issues": 21,
                 "owner": "darcys22",
                 "repo": "godbledger",
-                "stars": 512
+                "stars": 512,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             },
@@ -319,12 +565,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bookkeeping in Python",
+                "homepage": null,
                 "id": 4026586,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-03T19:22:50Z",
+                "open_issues": 1,
                 "owner": "brandon-rhodes",
                 "repo": "luca",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             }
@@ -342,12 +593,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The financial transactions database designed for mission critical safety and performance.",
+                "homepage": "https://tigerbeetle.com",
                 "id": 254418044,
                 "language": "Zig",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T09:21:57Z",
+                "open_issues": 107,
                 "owner": "tigerbeetle",
                 "repo": "tigerbeetle",
-                "stars": 16917
+                "stars": 16923,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             },
@@ -358,12 +614,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Double entry accounting in Django",
+                "homepage": "http://django-hordak.readthedocs.io",
                 "id": 67291607,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-02T14:46:05Z",
+                "open_issues": 9,
                 "owner": "adamcharnock",
                 "repo": "django-hordak",
-                "stars": 270
+                "stars": 270,
+                "topics": [
+                  "accounting",
+                  "django"
+                ]
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             },
@@ -374,12 +638,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Managed accounts for Django (with or without django-oscar)",
+                "homepage": null,
                 "id": 5602780,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-04-23T21:26:13Z",
+                "open_issues": 18,
                 "owner": "django-oscar",
                 "repo": "django-oscar-accounts",
-                "stars": 215
+                "stars": 215,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             }
@@ -403,12 +672,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A self-hosted open source application for managing your invoices, clients and payments.",
+                "homepage": "https://www.invoiceplane.com",
                 "id": 20021038,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T09:10:26Z",
+                "open_issues": 70,
                 "owner": "InvoicePlane",
                 "repo": "InvoicePlane",
-                "stars": 3126
+                "stars": 3126,
+                "topics": [
+                  "billing",
+                  "codeigniter",
+                  "crm",
+                  "invoiceplane",
+                  "invoices",
+                  "invoicing",
+                  "open-source",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             },
@@ -419,12 +702,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Invoice and quotation builder desktop app with PDF export, designed for small businesses and freelancers. Create, manage, and export invoices and quotes easily using a local database in an Electron-based app.",
+                "homepage": null,
                 "id": 1095819454,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T14:54:34Z",
+                "open_issues": 16,
                 "owner": "piratuks",
                 "repo": "invoice-builder",
-                "stars": 968
+                "stars": 970,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             },
@@ -435,12 +723,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby invoicing framework gem",
+                "homepage": "http://invoicing.c9s.dev/",
                 "id": 12731118,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2023-08-29T03:59:03Z",
+                "open_issues": 17,
                 "owner": "codemancers",
                 "repo": "invoicing",
-                "stars": 266
+                "stars": 266,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             },
@@ -451,12 +744,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library to generate PDF invoices.",
+                "homepage": null,
                 "id": 2173993,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-12T12:54:25Z",
+                "open_issues": 8,
                 "owner": "by-cx",
                 "repo": "InvoiceGenerator",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             },
@@ -467,12 +765,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast & elegant PDF invoice generator for Node using PDFKit. No Puppeteer",
+                "homepage": null,
                 "id": 420055826,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-09T16:21:40Z",
+                "open_issues": 3,
                 "owner": "baptistejamin",
                 "repo": "node-microinvoice",
-                "stars": 147
+                "stars": 147,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             },
@@ -483,12 +786,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zero-maintenance and smart FOSS generating beautiful invoices for services and expenses.",
+                "homepage": null,
                 "id": 997233633,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-06-01T20:02:57Z",
+                "open_issues": 0,
                 "owner": "Sajjon",
                 "repo": "klirr",
-                "stars": 138
+                "stars": 138,
+                "topics": [
+                  "consulting",
+                  "currency-converter",
+                  "email-sender",
+                  "exchange-rates",
+                  "expense-tracker",
+                  "expenses",
+                  "freelancer",
+                  "inquire",
+                  "invoice",
+                  "invoice-generator",
+                  "invoice-template",
+                  "klirr",
+                  "ron",
+                  "smtp-server",
+                  "tui",
+                  "typesetting-system",
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             }
@@ -506,12 +832,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep neural network to extract intelligent information from invoice documents.",
+                "homepage": null,
                 "id": 139323243,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-03T20:12:57Z",
+                "open_issues": 72,
                 "owner": "naiveHobo",
                 "repo": "InvoiceNet",
-                "stars": 2695
+                "stars": 2695,
+                "topics": [
+                  "billing",
+                  "classification",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "deeplearning",
+                  "information-extraction",
+                  "information-retrieval",
+                  "invoice",
+                  "invoice-insight",
+                  "invoice-management",
+                  "invoice-parser",
+                  "invoice-pdf",
+                  "invoice-software",
+                  "invoices",
+                  "keras",
+                  "keras-neural-networks",
+                  "keras-tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             }
@@ -529,12 +878,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python lib for Factur-X, the e-invoicing standard for France and Germany",
+                "homepage": null,
                 "id": 102990522,
                 "language": "XSLT",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T15:01:55Z",
+                "open_issues": 12,
                 "owner": "akretion",
                 "repo": "factur-x",
-                "stars": 304
+                "stars": 304,
+                "topics": [
+                  "e-invoice",
+                  "odoo"
+                ]
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             },
@@ -545,12 +902,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go Business Language",
+                "homepage": null,
                 "id": 292311963,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T11:20:52Z",
+                "open_issues": 64,
                 "owner": "invopop",
                 "repo": "gobl",
-                "stars": 302
+                "stars": 302,
+                "topics": [
+                  "gobl"
+                ]
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             }
@@ -572,12 +936,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
+            "homepage": "https://hyperswitch.io/",
             "id": 552877440,
             "language": "Rust",
-            "last_commit": "2026-08-28T18:12:58Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:01:27Z",
+            "open_issues": 2098,
             "owner": "juspay",
             "repo": "hyperswitch",
-            "stars": 43538
+            "stars": 43539,
+            "topics": [
+              "adyen",
+              "beginner-friendly",
+              "featured",
+              "finance",
+              "fintech",
+              "hacktoberfest",
+              "high-performance",
+              "open-source",
+              "orchestration",
+              "payment",
+              "payment-gateway",
+              "payment-integration",
+              "payment-processing",
+              "payments",
+              "payments-platform",
+              "restful-api",
+              "rust",
+              "sdk",
+              "stripe",
+              "works-with-react"
+            ]
           },
           "first_seen": "2026-08-28T21:14:44.914Z"
         },
@@ -588,12 +978,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Polar — A billing platform for the intelligence era",
+            "homepage": "https://polar.sh",
             "id": 593558875,
             "language": "Python",
-            "last_commit": "2026-08-28T15:37:59Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:32:41Z",
+            "open_issues": 107,
             "owner": "polarsource",
             "repo": "polar",
-            "stars": 10216
+            "stars": 10215,
+            "topics": [
+              "digital-products",
+              "fastapi",
+              "merchant-of-record",
+              "nextjs",
+              "payments",
+              "payments-platform",
+              "polar",
+              "python",
+              "react",
+              "saas",
+              "subscriptions",
+              "turborepo",
+              "typescript",
+              "usage-billing"
+            ]
           },
           "first_seen": "2026-08-28T21:14:44.914Z"
         },
@@ -604,12 +1014,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ACH implements a reader, writer, and validator for Automated Clearing House (ACH) files. The HTTP server is available in a Docker image and the Go package is available.",
+            "homepage": "https://moov-io.github.io/ach/",
             "id": 76497520,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T00:08:57Z",
+            "open_issues": 17,
             "owner": "moov-io",
             "repo": "ach",
-            "stars": 560
+            "stars": 560,
+            "topics": [
+              "ach",
+              "ach-origination",
+              "automated-clearing-house",
+              "fintech",
+              "golang-library",
+              "money",
+              "moov",
+              "nacha",
+              "payment"
+            ]
           },
           "first_seen": "2026-08-28T21:14:44.914Z"
         },
@@ -622,12 +1047,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swift Codes or BIC Codes for all the Banks in the world. Cached to json.",
+                "homepage": null,
                 "id": 46710117,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2019-08-09T16:26:45Z",
+                "open_issues": 4,
                 "owner": "PeterNotenboom",
                 "repo": "SwiftCodes",
-                "stars": 199
+                "stars": 199,
+                "topics": [
+                  "bank",
+                  "bic",
+                  "codes",
+                  "json",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             }
@@ -649,12 +1085,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👤 Identity and Access Management knowledge for cloud platforms",
+            "homepage": null,
             "id": 191515681,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-14T14:15:27Z",
+            "open_issues": 4,
             "owner": "kdeldycke",
             "repo": "awesome-iam",
-            "stars": 2262
+            "stars": 2262,
+            "topics": [
+              "abac",
+              "anonymization",
+              "awesome",
+              "awesome-list",
+              "fido2",
+              "hardware-security-module",
+              "iam",
+              "identity-management",
+              "identity-provider",
+              "mfa",
+              "openid",
+              "passkeys",
+              "passwordless",
+              "pki",
+              "saml",
+              "scim",
+              "secret-management",
+              "totp",
+              "webauthn",
+              "zero-trust"
+            ]
           },
           "first_seen": "2026-08-28T21:14:44.914Z"
         },
@@ -665,12 +1127,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of data mining papers about fraud detection.",
+            "homepage": null,
             "id": 188821801,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-01-05T12:28:59Z",
+            "open_issues": 2,
             "owner": "benedekrozemberczki",
             "repo": "awesome-fraud-detection-papers",
-            "stars": 1827
+            "stars": 1827,
+            "topics": [
+              "churn",
+              "classification",
+              "classifier",
+              "credit-card-fraud",
+              "credit-card-fraud-detection",
+              "credit-card-validation",
+              "credit-scoring",
+              "data-mining",
+              "data-science",
+              "deep-learning",
+              "fraud-checker",
+              "fraud-detection",
+              "fraud-explorer",
+              "fraud-management",
+              "fraud-prevention",
+              "gradient-boosting",
+              "graph-classification",
+              "link-prediction",
+              "logistic-regression",
+              "random-forest"
+            ]
           },
           "first_seen": "2026-08-28T21:14:44.914Z"
         },
@@ -681,12 +1169,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[DEPREDATED] Central repo for fraud and risk management development and specifications",
+            "homepage": null,
             "id": 296127601,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-20T10:25:29Z",
+            "open_issues": 81,
             "owner": "mojaloop",
             "repo": "fraud_risk_management",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "ml-poc"
+            ]
           },
           "first_seen": "2026-08-28T21:14:44.914Z"
         },
@@ -699,12 +1194,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of awesome papers, articles and various resources on credit and credit risk modeling",
+                "homepage": null,
                 "id": 261762466,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2024-02-01T21:37:04Z",
+                "open_issues": 0,
                 "owner": "mourarthur",
                 "repo": "awesome-credit-modeling",
-                "stars": 177
+                "stars": 177,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "credit-modeling",
+                  "credit-scoring",
+                  "financial-machine-learning",
+                  "reject-inference",
+                  "sample-selection"
+                ]
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             }
@@ -728,12 +1236,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bayesian marketing toolbox in PyMC. Media Mix (MMM), customer lifetime value (CLV), buy-till-you-die (BTYD) models and more.",
+                "homepage": "https://www.pymc-marketing.io/",
                 "id": 467144767,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:19:13Z",
+                "open_issues": 428,
                 "owner": "pymc-labs",
                 "repo": "pymc-marketing",
-                "stars": 1249
+                "stars": 1250,
+                "topics": [
+                  "btyd",
+                  "buy-till-you-die",
+                  "clv",
+                  "customer-lifetime-value",
+                  "data-science",
+                  "marketing",
+                  "marketing-mix-modeling",
+                  "media-mix-modeling",
+                  "mmm",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             }
@@ -751,12 +1275,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+                "homepage": "https://superset.apache.org/",
                 "id": 39464018,
                 "language": "Python",
-                "last_commit": "2026-08-28T20:56:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:07:17Z",
+                "open_issues": 612,
                 "owner": "apache",
                 "repo": "superset",
-                "stars": 74515
+                "stars": 74520,
+                "topics": [
+                  "analytics",
+                  "apache",
+                  "apache-superset",
+                  "asf",
+                  "bi",
+                  "business-analytics",
+                  "business-intelligence",
+                  "data-analysis",
+                  "data-analytics",
+                  "data-engineering",
+                  "data-science",
+                  "data-visualization",
+                  "data-viz",
+                  "flask",
+                  "python",
+                  "react",
+                  "sql-editor",
+                  "superset"
+                ]
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             },
@@ -767,12 +1315,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
+                "homepage": "http://redash.io/",
                 "id": 13926404,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-18T16:14:11Z",
+                "open_issues": 802,
                 "owner": "getredash",
                 "repo": "redash",
-                "stars": 28766
+                "stars": 28766,
+                "topics": [
+                  "analytics",
+                  "athena",
+                  "bi",
+                  "bigquery",
+                  "business-intelligence",
+                  "dashboard",
+                  "databricks",
+                  "hacktoberfest",
+                  "javascript",
+                  "mariadb",
+                  "mysql",
+                  "postgresql",
+                  "python",
+                  "redash",
+                  "redshift",
+                  "snowflake",
+                  "spark",
+                  "spark-sql",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             },
@@ -783,12 +1356,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.",
+                "homepage": "https://meltano.com/",
                 "id": 378997214,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T18:42:37Z",
+                "open_issues": 145,
                 "owner": "meltano",
                 "repo": "meltano",
-                "stars": 2613
+                "stars": 2613,
+                "topics": [
+                  "connectors",
+                  "data",
+                  "data-engineering",
+                  "data-pipelines",
+                  "dataops",
+                  "dataops-platform",
+                  "elt",
+                  "extract-data",
+                  "integration",
+                  "loaders",
+                  "meltano",
+                  "meltano-sdk",
+                  "open-source",
+                  "opensource",
+                  "pipelines",
+                  "singer",
+                  "tap",
+                  "taps",
+                  "target",
+                  "targets"
+                ]
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
             }
@@ -802,15 +1401,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:14:44.914Z",
+    "last_updated": "2026-08-29T04:32:14.689Z",
     "original_repository_info": {
       "archived": false,
+      "description": "💰 Billing & Payments knowledge for cloud platforms",
+      "homepage": null,
       "id": 191599624,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-14T13:46:25Z",
+      "open_issues": 2,
       "owner": "kdeldycke",
       "repo": "awesome-billing",
-      "stars": 1329
+      "stars": 1329,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "billing",
+        "cloud-billing",
+        "cost-forecast",
+        "cost-management",
+        "double-entry",
+        "fraud",
+        "invoicing",
+        "metering",
+        "payment-processing",
+        "pricing",
+        "pricing-strategy",
+        "product-catalog",
+        "saas-billing",
+        "subscription-billing",
+        "subscription-management",
+        "tax",
+        "usage-based-billing",
+        "vat"
+      ]
     },
     "original_repository_sha": "ec5eba3b4f3ccbf7e292b76338df781f3d2ff24a",
     "enhanced_repository": "enhansome/enhansome-billing",
