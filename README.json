@@ -21,7 +21,7 @@
                 "open_issues": 24,
                 "owner": "getlago",
                 "repo": "lago",
-                "stars": 10494,
+                "stars": 10504,
                 "topics": [
                   "analytics",
                   "billing",
@@ -205,7 +205,7 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-09-04T07:12:22Z",
-            "open_issues": 371,
+            "open_issues": 372,
             "owner": "pimcore",
             "repo": "pimcore",
             "stars": 3842,
@@ -297,11 +297,11 @@
             "id": 156401841,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-04T14:08:37Z",
-            "open_issues": 2451,
+            "last_commit": "2026-09-05T13:31:07Z",
+            "open_issues": 2436,
             "owner": "sktime",
             "repo": "sktime",
-            "stars": 9988,
+            "stars": 9990,
             "topics": [
               "ai",
               "anomaly-detection",
@@ -334,11 +334,11 @@
             "id": 148657183,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T14:13:12Z",
+            "last_commit": "2026-09-04T15:02:12Z",
             "open_issues": 229,
             "owner": "unit8co",
             "repo": "darts",
-            "stars": 9508,
+            "stars": 9509,
             "topics": [
               "anomaly-detection",
               "data-science",
@@ -408,7 +408,7 @@
             "open_issues": 4,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 109442,
+            "stars": 109466,
             "topics": [
               "awesome",
               "computer-science",
@@ -491,10 +491,10 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-04T03:44:05Z",
-                "open_issues": 190,
+                "open_issues": 189,
                 "owner": "frappe",
                 "repo": "books",
-                "stars": 4928,
+                "stars": 4932,
                 "topics": [
                   "accounting",
                   "book-keeping",
@@ -526,11 +526,11 @@
                 "id": 371644903,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-04T14:25:29Z",
-                "open_issues": 50,
+                "last_commit": "2026-09-05T00:20:09Z",
+                "open_issues": 52,
                 "owner": "formancehq",
                 "repo": "ledger",
-                "stars": 1372,
+                "stars": 1374,
                 "topics": [
                   "ledger"
                 ]
@@ -599,10 +599,10 @@
                 "language": "Zig",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T11:11:48Z",
-                "open_issues": 102,
+                "open_issues": 103,
                 "owner": "tigerbeetle",
                 "repo": "tigerbeetle",
-                "stars": 16954,
+                "stars": 16958,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
@@ -620,7 +620,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-04-02T14:46:05Z",
-                "open_issues": 9,
+                "open_issues": 8,
                 "owner": "adamcharnock",
                 "repo": "django-hordak",
                 "stars": 270,
@@ -681,7 +681,7 @@
                 "open_issues": 76,
                 "owner": "InvoicePlane",
                 "repo": "InvoicePlane",
-                "stars": 3132,
+                "stars": 3133,
                 "topics": [
                   "billing",
                   "codeigniter",
@@ -873,6 +873,30 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Factur-X",
+              "description": "🆓 Python library to support the e-invoicing standard for France and Germany.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Python lib for Factur-X, the e-invoicing standard for France and Germany",
+                "homepage": null,
+                "id": 102990522,
+                "language": "XSLT",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-26T15:01:55Z",
+                "open_issues": 12,
+                "owner": "akretion",
+                "repo": "factur-x",
+                "stars": 306,
+                "topics": [
+                  "e-invoice",
+                  "odoo"
+                ]
+              },
+              "first_seen": "2026-08-28T21:14:44.914Z"
+            },
+            {
+              "node_type": "item",
               "title": "GOBL",
               "description": "💸 JSON Schema, Open Source Go library, global tax database, with conversion tools, all in one. Invopop sells a managed e-invoicing SaaS implementation on top of the open spec.",
               "children": [],
@@ -890,30 +914,6 @@
                 "stars": 306,
                 "topics": [
                   "gobl"
-                ]
-              },
-              "first_seen": "2026-08-28T21:14:44.914Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Factur-X",
-              "description": "🆓 Python library to support the e-invoicing standard for France and Germany.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Python lib for Factur-X, the e-invoicing standard for France and Germany",
-                "homepage": null,
-                "id": 102990522,
-                "language": "XSLT",
-                "license": "NOASSERTION",
-                "last_commit": "2026-08-26T15:01:55Z",
-                "open_issues": 12,
-                "owner": "akretion",
-                "repo": "factur-x",
-                "stars": 305,
-                "topics": [
-                  "e-invoice",
-                  "odoo"
                 ]
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
@@ -941,11 +941,11 @@
             "id": 552877440,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T14:14:30Z",
-            "open_issues": 2153,
+            "last_commit": "2026-09-05T13:20:40Z",
+            "open_issues": 2162,
             "owner": "juspay",
             "repo": "hyperswitch",
-            "stars": 43579,
+            "stars": 43584,
             "topics": [
               "adyen",
               "beginner-friendly",
@@ -983,11 +983,11 @@
             "id": 593558875,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T14:29:44Z",
-            "open_issues": 81,
+            "last_commit": "2026-09-05T11:53:48Z",
+            "open_issues": 82,
             "owner": "polarsource",
             "repo": "polar",
-            "stars": 10234,
+            "stars": 10236,
             "topics": [
               "digital-products",
               "fastapi",
@@ -1091,10 +1091,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-14T14:15:27Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "kdeldycke",
             "repo": "awesome-iam",
-            "stars": 2266,
+            "stars": 2267,
             "topics": [
               "abac",
               "anonymization",
@@ -1241,11 +1241,11 @@
                 "id": 467144767,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T12:55:27Z",
+                "last_commit": "2026-09-04T19:58:54Z",
                 "open_issues": 431,
                 "owner": "pymc-labs",
                 "repo": "pymc-marketing",
-                "stars": 1253,
+                "stars": 1255,
                 "topics": [
                   "btyd",
                   "buy-till-you-die",
@@ -1280,11 +1280,11 @@
                 "id": 39464018,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T14:31:37Z",
-                "open_issues": 624,
+                "last_commit": "2026-09-05T07:18:44Z",
+                "open_issues": 597,
                 "owner": "apache",
                 "repo": "superset",
-                "stars": 74632,
+                "stars": 74653,
                 "topics": [
                   "analytics",
                   "apache",
@@ -1321,7 +1321,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-03T14:43:52Z",
-                "open_issues": 798,
+                "open_issues": 799,
                 "owner": "getredash",
                 "repo": "redash",
                 "stars": 28781,
@@ -1361,7 +1361,7 @@
                 "id": 378997214,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-04T00:26:30Z",
+                "last_commit": "2026-09-04T20:37:44Z",
                 "open_issues": 149,
                 "owner": "meltano",
                 "repo": "meltano",
@@ -1401,7 +1401,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T14:32:05.855Z",
+    "last_updated": "2026-09-05T13:31:38.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "💰 Billing & Payments knowledge for cloud platforms",
@@ -1410,7 +1410,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-14T13:46:25Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "kdeldycke",
       "repo": "awesome-billing",
       "stars": 1336,
