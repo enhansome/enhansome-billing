@@ -298,10 +298,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-29T17:52:28Z",
-            "open_issues": 2559,
+            "open_issues": 2564,
             "owner": "sktime",
             "repo": "sktime",
-            "stars": 10052,
+            "stars": 10053,
             "topics": [
               "ai",
               "anomaly-detection",
@@ -408,7 +408,7 @@
             "open_issues": 4,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 110189,
+            "stars": 110205,
             "topics": [
               "awesome",
               "computer-science",
@@ -527,7 +527,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-02T15:14:08Z",
-                "open_issues": 59,
+                "open_issues": 58,
                 "owner": "formancehq",
                 "repo": "ledger",
                 "stars": 1413,
@@ -553,7 +553,7 @@
                 "open_issues": 6,
                 "owner": "blnkfinance",
                 "repo": "blnk",
-                "stars": 540,
+                "stars": 541,
                 "topics": [
                   "double-entry",
                   "double-entry-ledger",
@@ -611,10 +611,10 @@
                 "language": "Zig",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T16:15:18Z",
-                "open_issues": 120,
+                "open_issues": 117,
                 "owner": "tigerbeetle",
                 "repo": "tigerbeetle",
-                "stars": 17127,
+                "stars": 17129,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
@@ -723,7 +723,7 @@
                 "open_issues": 9,
                 "owner": "piratuks",
                 "repo": "invoice-builder",
-                "stars": 1259,
+                "stars": 1261,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:44.914Z"
@@ -807,7 +807,7 @@
                 "open_issues": 0,
                 "owner": "Sajjon",
                 "repo": "klirr",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "consulting",
                   "currency-converter",
@@ -953,11 +953,11 @@
             "id": 552877440,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T11:15:24Z",
+            "last_commit": "2026-10-03T14:50:37Z",
             "open_issues": 2270,
             "owner": "juspay",
             "repo": "hyperswitch",
-            "stars": 45270,
+            "stars": 45273,
             "topics": [
               "adyen",
               "beginner-friendly",
@@ -995,11 +995,11 @@
             "id": 593558875,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:27:42Z",
+            "last_commit": "2026-10-03T13:11:57Z",
             "open_issues": 108,
             "owner": "polarsource",
             "repo": "polar",
-            "stars": 10305,
+            "stars": 10310,
             "topics": [
               "digital-products",
               "fastapi",
@@ -1253,11 +1253,11 @@
                 "id": 467144767,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T00:42:02Z",
+                "last_commit": "2026-10-03T10:05:59Z",
                 "open_issues": 452,
                 "owner": "pymc-labs",
                 "repo": "pymc-marketing",
-                "stars": 1272,
+                "stars": 1273,
                 "topics": [
                   "btyd",
                   "buy-till-you-die",
@@ -1292,11 +1292,11 @@
                 "id": 39464018,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T03:00:35Z",
-                "open_issues": 536,
+                "last_commit": "2026-10-03T13:13:00Z",
+                "open_issues": 533,
                 "owner": "apache",
                 "repo": "superset",
-                "stars": 75015,
+                "stars": 75027,
                 "topics": [
                   "analytics",
                   "apache",
@@ -1413,7 +1413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:34:02.230Z",
+    "last_updated": "2026-10-03T14:52:08.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "💰 Billing & Payments knowledge for cloud platforms",
