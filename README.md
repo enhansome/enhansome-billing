@@ -25,7 +25,7 @@
 
 Any company needs at one point to get money from customers. That's when things gets messy for us developers, as we try to reconcile the complexity of the business with our software stack.
 
-This [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,604 | 🐛 106 | 📅 2026-09-02 list helps software engineers **bootstrap billing & payments systems, and make sense of invoicing, pricing, accounting, marketplace, fraud and business intelligence**.
+This [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02 list helps software engineers **bootstrap billing & payments systems, and make sense of invoicing, pricing, accounting, marketplace, fraud and business intelligence**.
 
 ## Contents
 
@@ -91,7 +91,7 @@ In a Stanford class providing an [overview of cloud computing](https://web.stanf
 
 <!--lint disable double-link-->
 
-Billing is one of the transversal pillar of the ecosystem, where customers, products and business meets. The [other pillar being Identity and Access Management (IAM) 👤](https://github.com/kdeldycke/awesome-iam/) ⭐ 2,293 | 🐛 3 | 📅 2026-09-28.
+Billing is one of the transversal pillar of the ecosystem, where customers, products and business meets. The [other pillar being Identity and Access Management (IAM) 👤](https://github.com/kdeldycke/awesome-iam/) ⭐ 2,294 | 🐛 3 | 📅 2026-09-28.
 
 <!--lint enable double-link-->
 
@@ -125,7 +125,7 @@ From monthly subscription to commodity-like on-the-go consumption, there's plent
 
 The dynamic scheme for elastic resources.
 
-* [Lago](https://github.com/getlago/lago) ⭐ 10,648 | 🐛 26 | 🌐 Go | 📅 2026-10-01 - 💸 Open-source metering & usage-based billing in Ruby. Lago SAS sells a hosted Cloud and Premium add-ons on top of the AGPL core.
+* [Lago](https://github.com/getlago/lago) ⭐ 10,650 | 🐛 26 | 🌐 Go | 📅 2026-10-01 - 💸 Open-source metering & usage-based billing in Ruby. Lago SAS sells a hosted Cloud and Premium add-ons on top of the AGPL core.
 
 * [CGRateS](https://github.com/cgrates/cgrates) ⭐ 521 | 🐛 65 | 🌐 Go | 📅 2026-10-02 - 🆓 An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go. Vendor-neutral, support-only commercial model.
 
@@ -159,7 +159,7 @@ The dynamic scheme for elastic resources.
 
 Highly popular for SaaS businesses, subscription plans are easy to comprehend.
 
-* [Lotus](https://github.com/uselotus/lotus) ⭐ 1,839 | 🐛 36 | 🌐 Python | 📅 2026-10-01 - 🆓 Open-source project to manage pricing & packaging infrastructure. Lotus Inc. only sells managed hosting on top of the MIT core.
+* [Lotus](https://github.com/uselotus/lotus) ⭐ 1,840 | 🐛 36 | 🌐 Python | 📅 2026-10-01 - 🆓 Open-source project to manage pricing & packaging infrastructure. Lotus Inc. only sells managed hosting on top of the MIT core.
 
 * [`f-license`](https://github.com/furkansenharputlu/f-license) ⭐ 827 | 🐛 11 | 🌐 Go | 📅 2024-02-29 - 🆓 Open-source license key generation and verification tool in Go. Solo-maintainer project, no commercial offering.
 
@@ -215,7 +215,7 @@ The central repository of all available services, products, variants, options an
 
 Simulate a virtual invoice depending on the resource you plan to use.
 
-* [Infracost](https://github.com/infracost/infracost) ⭐ 12,545 | 🐛 23 | 🌐 Go | 📅 2026-09-30 - 💸 Cloud cost estimates from Terraform code, surfaced as a breakdown in the terminal or as a diff in pull requests before resources are provisioned. Infracost Inc. sells a hosted dashboard (Infracost Cloud) on top of the Apache-2.0 CLI.
+* [Infracost](https://github.com/infracost/infracost) ⭐ 12,549 | 🐛 23 | 🌐 Go | 📅 2026-09-30 - 💸 Cloud cost estimates from Terraform code, surfaced as a breakdown in the terminal or as a diff in pull requests before resources are provisioned. Infracost Inc. sells a hosted dashboard (Infracost Cloud) on top of the Apache-2.0 CLI.
 
 * [Cloudorado](https://www.cloudorado.com) - 💸 A comparison matrix which use ECU (Amazon's vCPU) as a CPU power measure unit. Operated by Cloudorado as a commercial cloud-comparison product.
 
@@ -225,11 +225,11 @@ Simulate a virtual invoice depending on the resource you plan to use.
 
 Help your customers predict their upcoming and future consumption based on their past usage.
 
-* [`sktime`](https://github.com/alan-turing-institute/sktime) ⭐ 10,051 | 🐛 2,554 | 🌐 Python | 📅 2026-09-29 - 🆓 Python library for time-series machine learning, governed by the Alan Turing Institute. See the [forecasting tutorial](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) ⭐ 10,051 | 🐛 2,554 | 🌐 Python | 📅 2026-09-29 and the [differences between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861).
+* [`sktime`](https://github.com/alan-turing-institute/sktime) ⭐ 10,052 | 🐛 2,559 | 🌐 Python | 📅 2026-09-29 - 🆓 Python library for time-series machine learning, governed by the Alan Turing Institute. See the [forecasting tutorial](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) ⭐ 10,052 | 🐛 2,559 | 🌐 Python | 📅 2026-09-29 and the [differences between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861).
 
-* [Darts](https://github.com/unit8co/darts) ⭐ 9,535 | 🐛 228 | 🌐 Python | 📅 2026-09-30 - 🆓 Python library for user-friendly forecasting and anomaly detection on time series, stewarded by Unit8 SA which only sells consulting around it (no paid library tier). Wraps a huge number of models, including [Prophet](https://facebook.github.io/prophet/). Great for experiments, but bear in mind that all the [models in Darts expects](https://news.ycombinator.com/item?id=37665435) that your data comes at a very regular interval, and make a lot of assumptions about their shape.
+* [Darts](https://github.com/unit8co/darts) ⭐ 9,536 | 🐛 229 | 🌐 Python | 📅 2026-09-30 - 🆓 Python library for user-friendly forecasting and anomaly detection on time series, stewarded by Unit8 SA which only sells consulting around it (no paid library tier). Wraps a huge number of models, including [Prophet](https://facebook.github.io/prophet/). Great for experiments, but bear in mind that all the [models in Darts expects](https://news.ycombinator.com/item?id=37665435) that your data comes at a very regular interval, and make a lot of assumptions about their shape.
 
-* [Komiser](https://github.com/mlabouardy/komiser) ⭐ 4,143 | 🐛 267 | 🌐 Go | 📅 2026-09-10 - 💸 Open-source tool to stay under budget by uncovering hidden costs, monitoring increases in spend, and making impactful changes based on custom recommendations. Tailwarden sells a hosted SaaS on top.
+* [Komiser](https://github.com/mlabouardy/komiser) ⭐ 4,142 | 🐛 267 | 🌐 Go | 📅 2026-09-10 - 💸 Open-source tool to stay under budget by uncovering hidden costs, monitoring increases in spend, and making impactful changes based on custom recommendations. Tailwarden sells a hosted SaaS on top.
 
 * [Forecasting: Principles and Practice](https://otexts.com/fpp2/) - “Comprehensive introduction to forecasting methods and to present enough information about each method for readers to be able to use them sensibly.”
 
@@ -245,7 +245,7 @@ Help your customers predict their upcoming and future consumption based on their
 
 A marketplace connect supply with demand that lead to a financial transaction. If there is no payment involved, then it is an aggregator, or a hub. Not a marketplace.
 
-* [Papers we love: Auctions and Bidding](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) ⭐ 110,169 | 🐛 4 | 🌐 Shell | 📅 2026-09-29 - A collection of papers on bidding and auctions.
+* [Papers we love: Auctions and Bidding](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) ⭐ 110,189 | 🐛 4 | 🌐 Shell | 📅 2026-09-29 - A collection of papers on bidding and auctions.
 
 * [Customized Regression Model for Airbnb Dynamic Pricing](https://www.kdd.org/kdd2018/accepted-papers/view/customized-regression-model-for-airbnb-dynamic-pricing) - This paper describes the pricing strategy model deployed at Airbnb.
 
@@ -321,7 +321,7 @@ Everything you need to know about the daily practice of keeping your accounting 
 
 * [Formance Ledger](https://github.com/formancehq/ledger) ⭐ 1,413 | 🐛 59 | 🌐 Go | 📅 2026-10-02 - 💸 MIT-licensed programmable double-entry ledger with the Numscript DSL, multi-currency, REST API, and Docker deployment usable standalone. Formance sells Enterprise add-ons (Wallets, Flows, Reconciliation, pre-built connectors, SSO, RBAC, audit logs) on top, but the core ledger is fully functional in OSS.
 
-* [Blnk](https://github.com/blnkfinance/blnk) ⭐ 539 | 🐛 6 | 🌐 Go | 📅 2026-09-28 - 💸 Apache-2.0 double-entry ledger exposed as a REST API, with Go, TypeScript, Python and Java SDKs. Inflight transactions hold a pending leg until it is committed or voided, and the reconciliation engine matches external statements against custom rules. Blnk Finance sells a managed cloud adding back-office reports, audit logs and team permissions on top, but the core ledger, reconciliation and identity features are fully functional in OSS.
+* [Blnk](https://github.com/blnkfinance/blnk) ⭐ 540 | 🐛 6 | 🌐 Go | 📅 2026-09-28 - 💸 Apache-2.0 double-entry ledger exposed as a REST API, with Go, TypeScript, Python and Java SDKs. Inflight transactions hold a pending leg until it is committed or voided, and the reconciliation engine matches external statements against custom rules. Blnk Finance sells a managed cloud adding back-office reports, audit logs and team permissions on top, but the core ledger, reconciliation and identity features are fully functional in OSS.
 
 * [Luca](https://github.com/brandon-rhodes/luca) ⭐ 73 | 🐛 1 | 🌐 Python | 📅 2026-03-03 - 🆓 YAML accounting and JSON tax forms, solo-maintained.
 
@@ -339,7 +339,7 @@ Everything you need to know about the daily practice of keeping your accounting 
 
 Now that you're somewhat familiar with the concepts and practice of accounting, here are some resources to help you implement that knowledge into software systems.
 
-* [TigerBeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 17,125 | 🐛 121 | 🌐 Zig | 📅 2026-10-02 - 🆓 A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between. All features are in the Apache-2.0 OSS repo; TigerBeetle Inc. sells managed hosting and support, not gated features. It has been [tested on Jepsen](https://jepsen.io/analyses/tigerbeetle-0.16.11), which tested its strong serializability.
+* [TigerBeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 17,127 | 🐛 120 | 🌐 Zig | 📅 2026-10-02 - 🆓 A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between. All features are in the Apache-2.0 OSS repo; TigerBeetle Inc. sells managed hosting and support, not gated features. It has been [tested on Jepsen](https://jepsen.io/analyses/tigerbeetle-0.16.11), which tested its strong serializability.
 
 * [Django Hordak](https://github.com/adamcharnock/django-hordak) ⭐ 271 | 🐛 8 | 🌐 Python | 📅 2026-04-02 - 🆓 Core functionality of a double entry accounting system for Django, single-maintainer MIT library.
 
@@ -461,19 +461,19 @@ Once issued, an invoice must be immutable.
 
 * [InvoiceGenerator](https://github.com/by-cx/InvoiceGenerator) ⭐ 184 | 🐛 9 | 🌐 Python | 📅 2026-08-12 - 🆓 Python library to generate simple invoices.
 
-* [microinvoice](https://github.com/baptistejamin/node-microinvoice) ⭐ 146 | 🐛 3 | 🌐 TypeScript | 📅 2026-01-09 - 🆓 Fast Node.js library to generate PDF invoices with PDFKit, no headless browser required.
+* [microinvoice](https://github.com/baptistejamin/node-microinvoice) ⭐ 145 | 🐛 3 | 🌐 TypeScript | 📅 2026-01-09 - 🆓 Fast Node.js library to generate PDF invoices with PDFKit, no headless browser required.
 
 * [klirr](https://github.com/sajjon/klirr) ⭐ 140 | 🐛 0 | 🌐 Rust | 📅 2026-06-01 - 🆓 Zero-maintenance FOSS CLI tool for generating beautiful invoices for services and expenses.
 
 ### Extractors
 
-* [InvoiceNet](https://github.com/naiveHobo/InvoiceNet) ⭐ 2,696 | 🐛 72 | 🌐 Python | 📅 2024-05-03 - 🆓 Deep neural network to extract intelligent information from invoice documents.
+* [InvoiceNet](https://github.com/naiveHobo/InvoiceNet) ⭐ 2,697 | 🐛 72 | 🌐 Python | 📅 2024-05-03 - 🆓 Deep neural network to extract intelligent information from invoice documents.
 
 ### Electronic invoices
 
 * [GOBL](https://github.com/invopop/gobl) ⭐ 314 | 🐛 61 | 🌐 Go | 📅 2026-10-01 - 💸 JSON Schema, Open Source Go library, global tax database, with conversion tools, all in one. Invopop sells a managed e-invoicing SaaS implementation on top of the open spec.
 
-* [Factur-X](https://github.com/akretion/factur-x) ⭐ 310 | 🐛 15 | 🌐 XSLT | 📅 2026-09-29 - 🆓 Python library to support the e-invoicing standard for France and Germany.
+* [Factur-X](https://github.com/akretion/factur-x) ⭐ 310 | 🐛 15 | 🌐 XSLT | 📅 2026-10-02 - 🆓 Python library to support the e-invoicing standard for France and Germany.
 
 * [Invoice Security Vulnerabilities](https://invoice.secvuln.info) - European Union introduced a "standard" in XML format, which comes with a set of security vulnerabilities.
 
@@ -483,11 +483,11 @@ Once issued, an invoice must be immutable.
 
 ## Payments
 
-* [Hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 45,271 | 🐛 2,270 | 🌐 Rust | 📅 2026-10-02 - 💸 Open-source backend for payment processing. Juspay sells Hyperswitch Cloud and a self-host Enterprise edition; the OSS is functionally complete with 90+ connectors, vault, routing, 3DS, and fraud orchestration.
+* [Hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 45,270 | 🐛 2,270 | 🌐 Rust | 📅 2026-10-02 - 💸 Open-source backend for payment processing. Juspay sells Hyperswitch Cloud and a self-host Enterprise edition; the OSS is functionally complete with 90+ connectors, vault, routing, 3DS, and fraud orchestration.
 
-* [Polar](https://github.com/polarsource/polar) ⭐ 10,300 | 🐛 107 | 🌐 Python | 📅 2026-10-02 - 💸 Open-source monetization platform to sell SaaS and digital products. Polar Software Inc. runs the hosted polar.sh service as the merchant of record, handling billing, sales tax and VAT remittance for a cut of each transaction; the self-hostable OSS ships the full stack (checkout, subscriptions, usage metering, license keys) on top of your own Stripe account.
+* [Polar](https://github.com/polarsource/polar) ⭐ 10,305 | 🐛 108 | 🌐 Python | 📅 2026-10-02 - 💸 Open-source monetization platform to sell SaaS and digital products. Polar Software Inc. runs the hosted polar.sh service as the merchant of record, handling billing, sales tax and VAT remittance for a cut of each transaction; the self-hostable OSS ships the full stack (checkout, subscriptions, usage metering, license keys) on top of your own Stripe account.
 
-* [moov](https://github.com/moov-io) - 🆓 Suite of Apache-2.0 libraries for financial technology, including [`moov-io/ach`](https://github.com/moov-io/ach) ⭐ 566 | 🐛 14 | 🌐 Go | 📅 2026-10-02, [`iso8583`](https://github.com/moov-io/iso8583) ⭐ 535 | 🐛 23 | 🌐 Go | 📅 2026-10-02, and [`watchman`](https://github.com/moov-io/watchman) ⭐ 512 | 🐛 2 | 🌐 Go | 📅 2026-10-02. No paid product on top.
+* [moov](https://github.com/moov-io) - 🆓 Suite of Apache-2.0 libraries for financial technology, including [`moov-io/ach`](https://github.com/moov-io/ach) ⭐ 566 | 🐛 14 | 🌐 Go | 📅 2026-10-03, [`iso8583`](https://github.com/moov-io/iso8583) ⭐ 535 | 🐛 23 | 🌐 Go | 📅 2026-10-02, and [`watchman`](https://github.com/moov-io/watchman) ⭐ 512 | 🐛 2 | 🌐 Go | 📅 2026-10-03. No paid product on top.
 
 * [The Best Payment Gateway for Startups](https://web.archive.org/web/20230204235716/http://aynuriev.com/best-payment-gateway-startups/) - A benchmark of top payment providers, their pricing and models.
 
@@ -565,7 +565,7 @@ There's monetary incentives to exploit your business. Be prepared to fight horde
 
 <!--lint disable double-link-->
 
-* [Awesome List of IAM: Fraud links](https://github.com/kdeldycke/awesome-iam#fraud) ⭐ 2,293 | 🐛 3 | 📅 2026-09-28 - Section dedicated to fraud management related to user accounts, from our sister repository.
+* [Awesome List of IAM: Fraud links](https://github.com/kdeldycke/awesome-iam#fraud) ⭐ 2,294 | 🐛 3 | 📅 2026-09-28 - Section dedicated to fraud management related to user accounts, from our sister repository.
 
 <!--lint enable double-link-->
 
@@ -679,7 +679,7 @@ How much value do you produce per customer? The Customer Lifetime Value (CLV, or
 
 <!--lint ignore balanced-punctuation-->
 
-* [PyMC-Marketing](https://github.com/pymc-labs/pymc-marketing) ⭐ 1,272 | 🐛 450 | 🌐 Python | 📅 2026-10-02 - 🆓 A full-featured Python package to analyze your users based on their "alive" and "dead" states. Apache-2.0 library stewarded by PyMC Labs, which only sells consulting services around it (no paid library tier).
+* [PyMC-Marketing](https://github.com/pymc-labs/pymc-marketing) ⭐ 1,272 | 🐛 452 | 🌐 Python | 📅 2026-10-03 - 🆓 A full-featured Python package to analyze your users based on their "alive" and "dead" states. Apache-2.0 library stewarded by PyMC Labs, which only sells consulting services around it (no paid library tier).
 
 * [Churn Prediction](https://towardsdatascience.com/customer-churn-prediction-with-text-and-interpretability-bd3d57af34b1/) - “How to use Python in a simplistic way to fuel your company's growth by applying the predictive approach to all your actions.” Relies on XGBoost binary classification.
 
@@ -705,9 +705,9 @@ To industrialize data production and consumption, your need data engineers to cl
 
 Software to build visualizations, dashboards, SQL queries and drill down into data.
 
-* [Apache Superset](https://github.com/apache/superset) ⭐ 75,008 | 🐛 532 | 🌐 Python | 📅 2026-10-02 - 🆓 Enterprise-ready business intelligence web application, governed by the Apache Software Foundation.
+* [Apache Superset](https://github.com/apache/superset) ⭐ 75,015 | 🐛 536 | 🌐 Python | 📅 2026-10-03 - 🆓 Enterprise-ready business intelligence web application, governed by the Apache Software Foundation.
 
-* [`redash`](https://github.com/getredash/redash) ⭐ 28,829 | 🐛 812 | 🌐 Python | 📅 2026-10-01 - 🆓 Connect and query your data sources, build dashboards to visualize data and share them with your company. Owned by Databricks but the hosted SaaS shut down in 2021, so the project is now community-maintained under the Databricks org with no paid Redash product.
+* [`redash`](https://github.com/getredash/redash) ⭐ 28,830 | 🐛 812 | 🌐 Python | 📅 2026-10-02 - 🆓 Connect and query your data sources, build dashboards to visualize data and share them with your company. Owned by Databricks but the hosted SaaS shut down in 2021, so the project is now community-maintained under the Databricks org with no paid Redash product.
 
 * [Meltano](https://github.com/meltano/meltano) ⭐ 2,644 | 🐛 146 | 🌐 Python | 📅 2026-10-02 - 🆓 Open source convention-over-configuration product for the whole data lifecycle, all the way from loading data to analyzing it. Meltano only sells managed Cloud hosting and support SLA on top of the OSS core.
 
@@ -767,7 +767,7 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ## Footnotes
 
-The [header image](https://github.com/kdeldycke/awesome-billing/blob/main/assets/awesome-billing-header.jpg) ⭐ 1,346 | 🐛 2 | 📅 2026-09-28 is based on a modified [photo](https://web.archive.org/web/20221210200108/https://unsplash.com/photos/u2zSzMTwIjQ) by [Denny Müller](https://web.archive.org/web/20221210200108/https://unsplash.com/@redaquamedia).
+The [header image](https://github.com/kdeldycke/awesome-billing/blob/main/assets/awesome-billing-header.jpg) is based on a modified [photo](https://web.archive.org/web/20221210200108/https://unsplash.com/photos/u2zSzMTwIjQ) by [Denny Müller](https://web.archive.org/web/20221210200108/https://unsplash.com/@redaquamedia).
 
 <!--lint disable no-undefined-references-->
 
@@ -775,4 +775,4 @@ The [header image](https://github.com/kdeldycke/awesome-billing/blob/main/assets
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
